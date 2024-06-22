@@ -1,0 +1,1 @@
+# wameco-django-trial
